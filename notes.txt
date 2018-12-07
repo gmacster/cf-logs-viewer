@@ -1,0 +1,7 @@
+CF Logs Viewer project:
+
+workflow:
+- login (cf login -a sys.cl-east-dev02.cf.ford.com --sso)
+- select org
+- select space
+- select app (cf 
